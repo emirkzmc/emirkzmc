@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&background=00000000&center=false&vCenter=true&width=600&lines=React+%2B+TypeScript;UI%2FUX+odaklı+geliştirme;Yapılandırılmış+iş+akışları;Sürekli+öğrenme" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&width=600&lines=React+%2B+TypeScript;Frontend+Development;UI%2FUX+Focused;Continuous+Learning" />
 
 <br><br>
 
