@@ -1,6 +1,6 @@
 # Emir Yusuf Kazmacı
 ### Frontend Developer
-
+![Profile Views](https://komarev.com/ghpvc/?username=emirkzmc&style=flat-square&color=000000&label=PROFILE+VIEWS)
 <br>
 
 Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim. Ekiplerle işbirliği içinde çalışarak dijital ürünler araştırmak, tasarlamak ve geliştirmek odak noktam. Yapılandırılmış iş akışlarına, sürekli öğrenmeye ve net iletişime değer veriyorum. Çözüm odaklı ve proaktif bir yaklaşımla, yüksek kaliteli ve kullanıcı odaklı web uygulamalarına etkili bir şekilde katkıda bulunmaya motiveyim.
