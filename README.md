@@ -1,18 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Emir%20Yusuf%20Kazmacı&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Emir%20Yusuf%20Kazmac%C4%B1&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&width=600&lines=React+%2B+TypeScript;Frontend+Development;UI%2FUX+Focused;Continuous+Learning" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&background=00000000&center=false&vCenter=true&width=600&lines=React+%2B+TypeScript;UI%2FUX-focused+development;Structured+workflows;Continuous+learning" alt="typing animation" />
 
 <br><br>
 
-Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim. Ekiplerle işbirliği içinde çalışarak dijital ürünler araştırmak, tasarlamak ve geliştirmek odak noktam. Yapılandırılmış iş akışlarına, sürekli öğrenmeye ve net iletişime değer veriyorum. Çözüm odaklı ve proaktif bir yaklaşımla, yüksek kaliteli ve kullanıcı odaklı web uygulamalarına etkili bir şekilde katkıda bulunmaya motiveyim.
+I've built a solid foundation in frontend development and UI/UX principles. My focus is researching, designing, and building digital products in collaboration with teams. I value structured workflows, continuous learning, and clear communication. With a solution-oriented and proactive approach, I'm motivated to contribute effectively to high-quality, user-centered web applications.
 
 <br>
 
-## 💻 Teknolojiler ve Araçlar
+## Technologies & Tools
 
-**Diller & Frameworkler**
+**Languages & Frameworks**
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
@@ -30,7 +30,7 @@ Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-**Tasarım & UI**
+**Design & UI**
 
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -39,7 +39,7 @@ Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim
   <img src="https://img.shields.io/badge/Adobe_Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
 </p>
 
-**Araçlar**
+**Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -48,7 +48,7 @@ Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim
 
 <br>
 
-## 📊 GitHub İstatistikleri
+## GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=emirkzmc&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_rank=true" alt="GitHub Stats" width="49%" />
@@ -61,7 +61,7 @@ Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim
 
 <br>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emirkzmc/emirkzmc/output/github-contribution-grid-snake-dark.svg">
@@ -71,7 +71,7 @@ Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim
 
 <br><br>
 
-## 📬 İletişim
+## Contact
 
 <p>
   <a href="mailto:emiryusfkaz48@gmail.com">
