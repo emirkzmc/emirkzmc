@@ -1,13 +1,22 @@
-# Emir Yusuf Kazmacı
+<div align="center">
 
-**Frontend Developer**  
+# Emir Yusuf Kazmacı
+### Frontend Developer
+
+![Profile Views](https://komarev.com/ghpvc/?username=emirkzmc&style=flat-square&color=000000&label=PROFILE+VIEWS)
+
+</div>
+
+<br>
+
 Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim. Ekiplerle işbirliği içinde çalışarak dijital ürünler araştırmak, tasarlamak ve geliştirmek odak noktam. Yapılandırılmış iş akışlarına, sürekli öğrenmeye ve net iletişime değer veriyorum. Çözüm odaklı ve proaktif bir yaklaşımla, yüksek kaliteli ve kullanıcı odaklı web uygulamalarına etkili bir şekilde katkıda bulunmaya motiveyim.
 
----
+<br>
 
-### 💻 Teknolojiler ve Araçlar
+## 💻 Teknolojiler ve Araçlar
 
 **Diller & Frameworkler**
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -17,6 +26,7 @@ Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim
 </p>
 
 **Backend & Database**
+
 <p>
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -24,6 +34,7 @@ Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim
 </p>
 
 **Tasarım & UI**
+
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -32,12 +43,28 @@ Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim
 </p>
 
 **Araçlar**
+
 <p>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
+<br>
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emirkzmc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=e6e6e6" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emirkzmc&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkzmc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=e6e6e6" alt="Top Languages" width="40%" />
+</p>
+
+<br>
+
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emirkzmc/emirkzmc/output/github-contribution-grid-snake-dark.svg">
@@ -45,24 +72,25 @@ Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emirkzmc/emirkzmc/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+<br><br>
 
-### 📬 İletişim
+## 📬 İletişim
 
 <p>
   <a href="mailto:emiryusfkaz48@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
   <a href="https://linkedin.com/in/emir-yusuf-kazmacı">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="https://emiryusufkazmaci.com.tr">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-
   <a href="http://instagram.com/emirkzmc/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+<div align="center">
+<sub>Made with focus, coffee, and clean commits.</sub>
+</div>
