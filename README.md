@@ -1,13 +1,16 @@
-# Emir Yusuf Kazmacı
-### Frontend Developer
-![Profile Views](https://komarev.com/ghpvc/?username=emirkzmc&style=flat-square&color=000000&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Emir%20Yusuf%20Kazmacı&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
+
 <br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&background=00000000&center=false&vCenter=true&width=600&lines=React+%2B+TypeScript;UI%2FUX+odaklı+geliştirme;Yapılandırılmış+iş+akışları;Sürekli+öğrenme" alt="typing animation" />
+
+<br><br>
 
 Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim. Ekiplerle işbirliği içinde çalışarak dijital ürünler araştırmak, tasarlamak ve geliştirmek odak noktam. Yapılandırılmış iş akışlarına, sürekli öğrenmeye ve net iletişime değer veriyorum. Çözüm odaklı ve proaktif bir yaklaşımla, yüksek kaliteli ve kullanıcı odaklı web uygulamalarına etkili bir şekilde katkıda bulunmaya motiveyim.
 
 <br>
 
-## Teknolojiler ve Araçlar
+## 💻 Teknolojiler ve Araçlar
 
 **Diller & Frameworkler**
 
@@ -45,20 +48,20 @@ Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim
 
 <br>
 
-## GitHub İstatistikleri
+## 📊 GitHub İstatistikleri
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=emirkzmc&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_rank=true" alt="GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=emirkzmc&hide_border=true&background=0d0d0d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=e6e6e6" alt="GitHub Streak" width="49%" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkzmc&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" width="40%" />
 </p>
 
 <br>
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emirkzmc/emirkzmc/output/github-contribution-grid-snake-dark.svg">
@@ -68,7 +71,7 @@ Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim
 
 <br><br>
 
-## İletişim
+## 📬 İletişim
 
 <p>
   <a href="mailto:emiryusfkaz48@gmail.com">
@@ -85,6 +88,6 @@ Frontend geliştirme ve UI/UX prensipleri üzerine sağlam bir temel inşa ettim
   </a>
 </p>
 
-<div align="center">
 <sub>Made with focus, coffee, and clean commits.</sub>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" alt="footer" />
