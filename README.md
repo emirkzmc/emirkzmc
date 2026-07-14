@@ -48,25 +48,6 @@ I've built a solid foundation in frontend development and UI/UX principles. My f
 
 <br>
 
-## GitHub Stats
-
-<p>
-<img
-src="https://github-readme-stats.vercel.app/api?username=emirkzmc&show_icons=true&theme=transparent"
-alt="GitHub Stats"
-/>
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkzmc&layout=compact&theme=transparent"
-alt="Top Languages"
-/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkzmc&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" width="40%" />
-</p>
-
-<br>
-
 ## Contribution Snake
 
 <picture>
