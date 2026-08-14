@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Emir%20Yusuf%20Kazmac%C4%B1&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Emir%20Yusuf%20Kazmac%C4%B1&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
 
 <br>
 
@@ -6,7 +6,7 @@
 
 <br><br>
 
-I've built a solid foundation in frontend development and UI/UX principles. My focus is researching, designing, and building digital products in collaboration with teams. I value structured workflows, continuous learning, and clear communication. With a solution-oriented and proactive approach, I'm motivated to contribute effectively to high-quality, user-centered web applications.
+I've built a solid foundation in fullstack development and UI/UX principles. My focus is researching, designing, and building digital products in collaboration with teams. I value structured workflows, continuous learning, and clear communication. With a solution-oriented and proactive approach, I'm motivated to contribute effectively to high-quality, user-centered web applications.
 
 <br>
 
